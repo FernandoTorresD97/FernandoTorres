@@ -12,13 +12,13 @@
 
 # 🚀 Sobre mim
 
-🎯 Desenvolvedor Back-end apaixonado por tecnologia.
+🎯 Desenvolvedor Full Stack apaixonado por tecnologia.
 
 ☕ Atualmente focado em **Java**, **Spring Boot** e desenvolvimento de APIs REST.
 
 📚 Sempre estudando novas tecnologias para construir aplicações escaláveis e de alta qualidade.
 
-💡 Acredito que aprender nunca termina.
+💡 Acredito que a aprendizagem nunca termina.
 
 ---
 
@@ -80,20 +80,6 @@ Sistema completo para gerenciamento de assistência técnica.
 - Flyway
 - JUnit
 
-🚧 **Projeto em desenvolvimento**
-
----
-
-
----
-
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoTorresD&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 ## ⚡ Tecnologias
@@ -126,21 +112,7 @@ AWS                 ███░░░░░░░░░░░░
 
 ---
 
-# 🎯 Objetivos para 2026
 
-✅ Criar projetos de nível profissional
-
-✅ Dominar Spring Boot
-
-✅ Aprender Microsserviços
-
-✅ Kubernetes
-
-✅ AWS
-
-✅ Contribuir para Open Source
-
----
 
 # 📫 Contato
 
@@ -150,7 +122,7 @@ AWS                 ███░░░░░░░░░░░░
 
 🐙 **GitHub**
 
-https://github.com/FernandoTorresD
+https://github.com/FernandoTorresD97
 
 ---
 
