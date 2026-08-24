@@ -51,15 +51,16 @@ Tenho interesse em construir aplicações escaláveis, APIs bem estruturadas, in
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Ferramentas & DevOps
+### 🛠️ Ferramentas & Build
 
 <p>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven%20Wrapper-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 
 ---
 
@@ -94,16 +95,20 @@ Tenho interesse em construir aplicações escaláveis, APIs bem estruturadas, in
 
 API REST desenvolvida com **Java e Spring Boot** para gerenciamento e processamento de notificações.
 
-### Tecnologias
+### 🔧 Tecnologias utilizadas
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* PostgreSQL
-* Maven
-* REST API
-* JUnit
-* Mockito
+* ☕ **Java**
+* 🌱 **Spring Boot**
+* 🌐 **Spring Web / REST API**
+* 🗄️ **PostgreSQL**
+* 🔄 **Spring Data JPA / Hibernate**
+* 📦 **Apache Maven**
+* 🧰 **Maven Wrapper**
+* 🧪 **JUnit 5**
+* 🎯 **Mockito**
+* 🐳 **Docker**
+* 🔀 **Git / GitHub**
+
 
 ### Principais funcionalidades
 
