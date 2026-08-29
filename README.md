@@ -1,214 +1,248 @@
-# 👋 Olá, eu sou Fernando Torres!
+# 👋 Hi, I'm Fernando Torres
 
-### 💻 Desenvolvedor Java | Spring Boot | APIs REST
+### Java Developer | Backend Engineer | Spring Boot | REST APIs
 
-Sou profissional de Tecnologia da Informação, com experiência em suporte técnico, sistemas, administração e desenvolvimento de software.
+I'm a Software Developer focused on **Java backend development**, building REST APIs, business applications, integrations, and database-driven solutions.
 
-Atualmente estou direcionando minha carreira para **Desenvolvimento de Software**, com foco em **Java, Spring Boot, APIs REST e desenvolvimento Full Stack**.
+My professional background combines **IT support, systems, administration, and software development**, giving me a practical understanding of both technical requirements and real-world business needs.
 
-Tenho interesse em construir aplicações escaláveis, APIs bem estruturadas, integrações entre sistemas e soluções que resolvam problemas reais.
-
----
-
-## 🚀 Sobre mim
-
-* 🔭 Atualmente trabalhando em projetos de **Desenvolvimento de Software**
-* 🌱 Aprofundando conhecimentos em **Java e Spring Boot**
-* 💻 Experiência com **APIs REST, PostgreSQL e sistemas legados**
-* 🧩 Conhecimentos em **Java EE, JSF e EJB**
-* 🎨 Conhecimentos em **Vue.js**
-* 🗄️ Experiência com bancos de dados relacionais
-* ⚙️ Experiência com suporte, manutenção e infraestrutura de TI
-* 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+Currently, my main focus is the **Java ecosystem**, especially **Spring Boot, REST APIs, PostgreSQL, JPA/Hibernate, automated testing, Docker, and CI/CD**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 About Me
+
+* 💻 Focused on **Java Backend Development**
+* ☕ Experience with **Java and Java EE**
+* 🌱 Building applications with **Spring Boot**
+* 🌐 Developing **REST APIs**
+* 🗄️ Working with **PostgreSQL, MySQL, JPA and Hibernate**
+* 🧪 Writing automated tests with **JUnit 5 and Mockito**
+* 🐳 Using **Docker** for application environments
+* 🔄 Familiar with **Git, GitHub and CI/CD**
+* 🎨 Frontend knowledge with **Vue.js, JavaScript, HTML and CSS**
+* 🧩 Experience with legacy technologies such as **JSF and EJB**
+* ⚙️ Background in IT support, systems and infrastructure
+
+---
+
+# 🛠️ Tech Stack
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java EE"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge" alt="JPA Hibernate"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Banco de dados
+### Testing
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito"/>
 </p>
 
-### 🛠️ Ferramentas & Build
+### Tools & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven%20Wrapper-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresD97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresD97&layout=donut&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoTorresD97&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 📈 Minhas linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresD97&layout=compact&langs_count=10&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-# 📌 Projetos em destaque
+# 📌 Featured Project
 
 ## 🔔 Notification API
 
-API REST desenvolvida com **Java e Spring Boot** para gerenciamento e processamento de notificações.
+A REST API developed with **Java 21 and Spring Boot** for notification management and processing.
 
-### 🔧 Tecnologias utilizadas
+The project was designed using a layered architecture and focuses on clean API design, persistence, validation, exception handling, automated testing, scheduled processing, and containerized environments.
 
-* ☕ **Java**
-* 🌱 **Spring Boot**
-* 🌐 **Spring Web / REST API**
-* 🗄️ **PostgreSQL**
-* 🔄 **Spring Data JPA / Hibernate**
-* 📦 **Apache Maven**
-* 🧰 **Maven Wrapper**
-* 🧪 **JUnit 5**
-* 🎯 **Mockito**
-* 🐳 **Docker**
-* 🔀 **Git / GitHub**
+### 🔧 Technologies
 
+* Java 21
+* Spring Boot
+* Spring Web
+* Spring Data JPA
+* Hibernate
+* PostgreSQL
+* Maven
+* JUnit 5
+* Mockito
+* Docker
+* GitHub Actions
 
-### Principais funcionalidades
+### ✨ Features
 
-* 📩 Criação de notificações
-* 📋 Consulta de notificações
-* 🔄 Gerenciamento de status
-* 📡 Diferentes canais de notificação
-* 🗄️ Persistência com PostgreSQL
-* 🧪 Testes automatizados
-* ⚠️ Tratamento de exceções
-* 🧱 Separação em camadas
-* 🔀 Mapeamento entre DTOs e entidades
+* Create and manage notifications
+* Notification status management
+* Multiple notification channels
+* Channel management
+* PostgreSQL persistence
+* DTO and Entity mapping
+* Input validation
+* Global exception handling
+* Layered architecture
+* Automated unit tests
+* Scheduled notification processing
+* RESTful endpoints
+* Swagger / OpenAPI documentation
+* Docker-based development environment
+* CI/CD pipeline
 
-🔗 **Repositório:**
-https://github.com/FernandoTorresD97/notification-api
+### 🔗 Project Links
+
+<p>
+  <a href="https://github.com/FernandoTorresD97/notification-api">
+    <img src="https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source on GitHub"/>
+  </a>
+
+  <a href="https://notification-api-il76.onrender.com/swagger-ui/index.html">
+    <img src="https://img.shields.io/badge/API-Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
+  </a>
+</p>
 
 ---
 
-## 🧩 Outros projetos
+# 🌐 Portfolio
 
-Estou utilizando este perfil para documentar minha evolução como desenvolvedor e publicar projetos envolvendo:
+You can explore my projects, technical background, and resume through my personal portfolio.
+
+<p align="center">
+  <a href="https://fernandotorres.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My-Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+# 📂 Other Projects
+
+I'm building and documenting projects focused on:
 
 * ☕ Java
 * 🌱 Spring Boot
-* 🌐 APIs REST
+* 🌐 REST APIs
 * 🗄️ PostgreSQL
-* 🧪 Testes automatizados
+* 🧪 Automated testing
 * 🐳 Docker
 * 🎨 Vue.js
-* 🔄 Integração entre sistemas
-* ⚙️ Automação
+* 🔄 System integration
+* ⚙️ Automation
 
-Novos projetos serão adicionados conforme minha evolução.
+More projects will be added as I continue developing production-oriented applications.
 
 ---
 
-# 🎯 Atualmente estudando
+# 🎯 Current Focus
+
+I'm currently focusing on improving my skills in:
 
 ```text
-Java
+Backend Development
+ ├── Java
  ├── Spring Boot
  ├── Spring Data JPA
  ├── Spring Security
  ├── REST APIs
- └── Testes
+ └── Automated Testing
 
-Banco de Dados
+Databases
  ├── PostgreSQL
  ├── SQL
  └── JPA / Hibernate
-
-Frontend
- ├── Vue.js
- ├── JavaScript
- ├── HTML
- └── CSS
 
 DevOps
  ├── Git
  ├── GitHub
  ├── Docker
  └── CI/CD
+
+Frontend
+ ├── Vue.js
+ ├── JavaScript
+ ├── HTML
+ └── CSS
 ```
 
 ---
 
-# 💼 Experiência
+# 💼 Professional Background
 
-Minha trajetória profissional combina **Tecnologia da Informação, suporte técnico, administração e desenvolvimento de software**.
+My professional background combines **IT support, systems, administration, and software development**.
 
-Essa experiência me proporcionou uma visão prática dos problemas enfrentados por empresas e usuários, além de experiência com:
+This experience has allowed me to work with:
 
-* Suporte técnico
-* Manutenção de computadores
-* Sistemas corporativos
-* Sistemas ERP
-* Organização e tratamento de dados
-* Excel
-* Automação de tarefas
-* Desenvolvimento de software
-* Integração de sistemas
+* Technical support
+* Computer maintenance
+* Corporate systems
+* ERP systems
+* Data management
+* Process automation
+* Software development
+* System integration
+* Database-driven applications
 
-Atualmente, meu foco profissional está direcionado para **Desenvolvimento de Software**, especialmente no ecossistema Java.
+I'm currently focused on building my career as a **Software Developer**, with a strong emphasis on **Java backend development and Spring Boot**.
 
 ---
 
-# 📫 Contato
+# 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/FernandoTorresD97">
+    <img src="https://img.shields.io/badge/GitHub-FernandoTorresD97-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my repositories, projects and development activity on GitHub.</i>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p>
   <a href="https://github.com/FernandoTorresD97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fernandotorresdias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://fernandotorres.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>🚀 Construindo projetos, aprendendo todos os dias e evoluindo como desenvolvedor.</i>
+  <i>Building software, solving problems, and continuously improving.</i>
 </p>
